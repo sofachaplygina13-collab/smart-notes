@@ -1,0 +1,2 @@
+# smart-notes
+проект
